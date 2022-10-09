@@ -1,4 +1,4 @@
-﻿namespace RPG
+﻿namespace RPG.Banco_de_Dados
 {
     internal class AtributosInimigos
     {
